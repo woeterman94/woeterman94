@@ -4,7 +4,6 @@
 
 ### Welcome at my Profile. Thanks for stopping by 👋
 
-- 🤓 Ask me anything about: Web Development, Security, Roller Coasters
-- 📖 Points of Interest: Azure, InfoSec, Cloud Development, New Technologies, Cats
+- 🤓 Ask me anything about: Web Development, Azure, Security, Roller Coasters
+- 📖 Points of Interest: The Cloud, InfoSec, New Technologies, Theme Parks, Cats
 - 😄 When not working I like to: Travel, Go to festivals, Listen to music
-- 📫 How to reach me:  [@woeterman_94](https://twitter.com/woeterman_94)
